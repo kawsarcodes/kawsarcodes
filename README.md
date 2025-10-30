@@ -6,7 +6,7 @@ Hey there! I'm Kawsar. I love building software that solves real-world problems.
   <img src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCaWmfSoM3C7Bsthzc0tCt0Q?color=%23E1AD0E&label=YouTube%20Views&logo=eye&logoColor=white&style=flat-square&labelColor=C79600" alt="YouTube Views" />
   <img src="https://komarev.com/ghpvc/?username=kawsarcodes&style=flat-square&color=10b981&label=GitHub%20Profile%20Views" alt="GitHub Profile Views" />
   <img src="https://custom-icon-badges.demolab.com/github/followers/kawsarcodes?color=236ad3&labelColor=1155ba&style=flat-square&logo=person-add&label=GitHub%20Followers&logoColor=white" alt="GitHub Followers" />
-  <img src="https://custom-icon-badges.demolab.com/github/stars/prognerds?color=55960c&style=flat-square&labelColor=488207&logo=star&label=GitHub%20Stars" alt="GitHub Stars" />
+  <img src="https://custom-icon-badges.demolab.com/github/stars/kawsarcodes?color=55960c&style=flat-square&labelColor=488207&logo=star&label=GitHub%20Stars" alt="GitHub Stars" />
 </p>
 
 ##  🔗 Socials Links

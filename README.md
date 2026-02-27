@@ -1,5 +1,6 @@
-## Kawsar Ahmed - Developer/Creator
-Hey there! I'm Kawsar. I love building software that solves real-world problems. My playground includes creating smooth mobile and web interfaces and engineering the powerful backend logic that makes them run. Turning a complex idea into a working application is my favorite challenge.
+## 💻 Software Engineer | 🎥 Tech Content Creator
+
+Hey there! I'm Kawsar. I love building software that solves real-world problems. I specialize in **engineering** smooth mobile and web interfaces and **developing** the powerful backend logic that makes them run. Turning a complex idea into a working application is my favorite challenge.
 
 <p align="left">
   <img src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCaWmfSoM3C7Bsthzc0tCt0Q?color=%23E05D44&label=YouTube%20Subscribers&logo=video&logoColor=white&style=flat-square&labelColor=CE4630" alt="YouTube Subscribers" />

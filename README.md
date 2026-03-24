@@ -16,9 +16,9 @@ I specialize in the modern JavaScript and TypeScript ecosystem with a deep focus
 
 [![Kawsar Shaikat YouTube](https://img.shields.io/badge/YouTube-Kawsar%20Codes-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCaWmfSoM3C7Bsthzc0tCt0Q)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Md%20Kawsar%20Ahmed-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdkawsarahmed)
-[![Kawsar Shaikat Facebook](https://img.shields.io/badge/Facebook-Kawsar%20Ahmed-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/kawsarshaikat) 
-[![Kawsar Shaikat Instagram](https://img.shields.io/badge/Instagram-Kawsar%20Ahmed-pink?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kawsarshaikat) 
-[![Kawsar Shaikat Twitter](https://img.shields.io/badge/Twitter-Kawsar%20Ahmed-lightblue?style=flat-square&logo=x&logoColor=white)](https://twitter.com/kawsarshaikat)
+[![Kawsar Shaikat Facebook](https://img.shields.io/badge/Facebook-Kawsar%20Ahmed-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/kawsarcodes) 
+[![Kawsar Shaikat Instagram](https://img.shields.io/badge/Instagram-Kawsar%20Ahmed-pink?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kawsarcodes) 
+[![Kawsar Shaikat Twitter](https://img.shields.io/badge/Twitter-Kawsar%20Ahmed-lightblue?style=flat-square&logo=x&logoColor=white)](https://twitter.com/kawsarcodes)
 
 ## Tech Stack
 
@@ -37,4 +37,4 @@ I specialize in the modern JavaScript and TypeScript ecosystem with a deep focus
 ## Let's Connect
 
 * **Email:** [contact@kawsar.dev](mailto:contact@kawsar.dev)
-* **Portfolio:** [https://kawsar.dev](https://kawsar.dev)
+* **Portfolio:** [www.kawsar.dev](https://kawsar.dev)

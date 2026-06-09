@@ -1,6 +1,8 @@
 ## Full Stack Developer | Tech Content Creator
 
-<img align="right" height="320" src="assets/typing-1.gif">
+<!-- <img align="right" height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWFnamcxamFhcGI3eWVkeXhmdDNkb3hvcnYxd2xpbmMxNXJnZ3dyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif"> -->
+
+<img align="right" height="300" src="assets/typing-1.gif">
 
 <p>
 
@@ -10,8 +12,12 @@ I specialize in the modern JavaScript and TypeScript ecosystem with a deep focus
 </p> 
 
 <p align="left">
-  <img src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCaWmfSoM3C7Bsthzc0tCt0Q?color=%23E05D44&label=YouTube%20Subscribers&logo=video&logoColor=white&style=flat-square&labelColor=CE4630" alt="YouTube Subscribers" />
-  <img src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCaWmfSoM3C7Bsthzc0tCt0Q?color=%23E1AD0E&label=YouTube%20Views&logo=eye&logoColor=white&style=flat-square&labelColor=C79600" alt="YouTube Views" />
+  <a href="https://www.youtube.com/channel/UCaWmfSoM3C7Bsthzc0tCt0Q">
+    <img src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCaWmfSoM3C7Bsthzc0tCt0Q?color=%23E05D44&label=YouTube%20Subscribers&logo=video&logoColor=white&style=flat-square&labelColor=CE4630" alt="YouTube Subscribers" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCaWmfSoM3C7Bsthzc0tCt0Q">
+    <img src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCaWmfSoM3C7Bsthzc0tCt0Q?color=%23E1AD0E&label=YouTube%20Views&logo=eye&logoColor=white&style=flat-square&labelColor=C79600" alt="YouTube Views" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=kawsarcodes&style=flat-square&color=10b981&label=GitHub%20Profile%20Views" alt="GitHub Profile Views" />
 </p>
 
@@ -41,12 +47,9 @@ I specialize in the modern JavaScript and TypeScript ecosystem with a deep focus
 
 ## GitHub Stats
 <p>
-  <a href="https://git.io/streak-stats">
     <img height="164" src="https://streak-stats.demolab.com/?user=kawsarcodes&theme=dark&hide_border=false&border_radius=0" alt="GitHub Streak" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kawsarcodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&border_radius=0" alt="Most Used Languages" />
-  </a>
+
 </p>
 
 

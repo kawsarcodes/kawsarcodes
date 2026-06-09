@@ -1,8 +1,6 @@
 ## Full Stack Developer | Tech Content Creator
 
-<!-- <img align="right" height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWFnamcxamFhcGI3eWVkeXhmdDNkb3hvcnYxd2xpbmMxNXJnZ3dyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif"> -->
-
-<img align="right" height="300" src="assets/typing-1.gif">
+<img align="right" height="320" src="assets/typing-1.gif">
 
 <p>
 

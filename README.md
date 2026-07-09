@@ -22,6 +22,8 @@ I specialize in the modern JavaScript and TypeScript ecosystem with a deep focus
   <img src="https://komarev.com/ghpvc/?username=kawsarcodes&style=flat-square&color=10b981&label=GitHub%20Profile%20Views" alt="GitHub Profile Views" />
 </p>
 
+<img src="assets/fading-line-1.gif">
+
 ## Current Activities
 * Optimizing applications using Next.js and TypeScript.
 * Exploring relational database design and PostgreSQL.
@@ -57,7 +59,6 @@ I specialize in the modern JavaScript and TypeScript ecosystem with a deep focus
     <img height="164" src="https://github-readme-streak-stats.herokuapp.com/?user=kawsarcodes&theme=dark&hide_border=false&border_radius=0" alt="GitHub Streak" />
     <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kawsarcodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&border_radius=0" alt="Most Used Languages" />
 </p>
-
 
 ## YouTube Tutorials | Project Showcase
 

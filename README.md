@@ -2,14 +2,15 @@
 
 <!-- <img align="right" height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWFnamcxamFhcGI3eWVkeXhmdDNkb3hvcnYxd2xpbmMxNXJnZ3dyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif"> -->
 
-<img align="right" height="300" src="assets/typing-2.gif">
+<img src="assets/cover1.png">
 
 <p>
 
 I am **`Md Kawsar Ahmed`**, a Full Stack Developer focused on building fast and scalable web applications. Currently, I am completing my degree in Computer Science and Engineering at United International University.
 
 I specialize in the modern JavaScript and TypeScript ecosystem with a deep focus on Next.js. Whether I am building SEO friendly applications, creating complex logic with Node.js, or crafting high contrast, minimalist UIs with Tailwind CSS, I enjoy turning challenging problems into intuitive digital experiences. I believe performance is a core feature and strive to write clean code that is easy to maintain.
-</p> 
+
+</p>
 
 <p align="left">
   <a href="https://www.youtube.com/channel/UCaWmfSoM3C7Bsthzc0tCt0Q">
@@ -20,6 +21,12 @@ I specialize in the modern JavaScript and TypeScript ecosystem with a deep focus
   </a>
   <img src="https://komarev.com/ghpvc/?username=kawsarcodes&style=flat-square&color=10b981&label=GitHub%20Profile%20Views" alt="GitHub Profile Views" />
 </p>
+
+## Current Activities
+* Optimizing applications using Next.js and TypeScript.
+* Exploring relational database design and PostgreSQL.
+* Developing GreenPulse, a smart city platform for urban environmental reporting.
+* Future Goals: Exploring system architecture and building open source projects.
 
 
 ## Tech Stack
@@ -47,9 +54,8 @@ I specialize in the modern JavaScript and TypeScript ecosystem with a deep focus
 
 ## GitHub Stats
 <p>
-    <img height="164" src="https://streak-stats.demolab.com/?user=kawsarcodes&theme=dark&hide_border=false&border_radius=0" alt="GitHub Streak" />
+    <img height="164" src="https://github-readme-streak-stats.herokuapp.com/?user=kawsarcodes&theme=dark&hide_border=false&border_radius=0" alt="GitHub Streak" />
     <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kawsarcodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&border_radius=0" alt="Most Used Languages" />
-
 </p>
 
 
@@ -66,8 +72,6 @@ I specialize in the modern JavaScript and TypeScript ecosystem with a deep focus
 
 [![YouTube](https://img.shields.io/badge/YouTube-Kawsar%20Codes-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCaWmfSoM3C7Bsthzc0tCt0Q)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Md%20Kawsar%20Ahmed-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdkawsarahmed)
-[![Facebook](https://img.shields.io/badge/Facebook-Kawsar%20Ahmed-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/kawsarcodes) 
-[![Instagram](https://img.shields.io/badge/Instagram-Kawsar%20Ahmed-pink?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kawsarcodes) 
 [![Twitter](https://img.shields.io/badge/Twitter-Kawsar%20Ahmed-lightblue?style=flat-square&logo=x&logoColor=white)](https://twitter.com/kawsarcodes)
 
 ## Contact

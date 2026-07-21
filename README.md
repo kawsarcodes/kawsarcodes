@@ -42,7 +42,8 @@ I specialize in the modern JavaScript and TypeScript ecosystem with a deep focus
 
 ## GitHub Stats
 <p>
-    <img height="164" src="https://github-readme-streak-stats.herokuapp.com/?user=kawsarcodes&theme=dark&hide_border=false&border_radius=0" alt="GitHub Streak" />
+    <img height="164" src="https://github-readme-streak-stats-eight.vercel.app/?user=kawsarcodes&theme=dark&hide_border=false&border_radius=0" alt="GitHub Streak" />
+    <!-- <img height="164" src="https://github-readme-streak-stats.herokuapp.com/?user=kawsarcodes&theme=dark&hide_border=false&border_radius=0" alt="GitHub Streak" /> -->
     <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kawsarcodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&border_radius=0" alt="Most Used Languages" />
 </p>
 

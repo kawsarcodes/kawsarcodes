@@ -44,14 +44,42 @@ I specialize in the modern JavaScript and TypeScript ecosystem with a deep focus
     <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kawsarcodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&border_radius=0" alt="Most Used Languages" />
 </p>
 
+## Certificates
+
+<p align="center">
+<img src="assets/certificates/black-belt.png" width="90%" margin-top="10px" alt="Black Belt Certificate" />
+<br>
+<img src="assets/certificates/complete-web-dev.jpg" width="90%" margin-top="10px" alt="Complete Web Development Certificate" />
+<br>
+<img src="assets/certificates/mern-stack.jpg" width="90%" margin-top="10px" alt="MERN Stack Certificate" />
+</p>
+
+
+<div align="center">
+
 ## YouTube Tutorials | Project Showcase
 
-[![UIU Exam Conflict Tracker | Pre Advising Made Easy](https://ytcards.demolab.com/?id=4iYUDeuZRJU&title=UIU+Exam+Conflict+Tracker+%7C+Pre+Advising+Made+Easy&lang=en&timestamp=1778522400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=681 "UIU Exam Conflict Tracker | Pre Advising Made Easy")](https://www.youtube.com/watch?v=4iYUDeuZRJU)
-[![UIU Course Evaluation Helper | Automation EXTENSION](https://ytcards.demolab.com/?id=kphad3SIo3M&title=UIU+Course+Evaluation+Helper+%7C+Automation+EXTENSION&lang=en&timestamp=1773424800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=151 "UIU Course Evaluation Helper | Automation EXTENSION")](https://www.youtube.com/watch?v=kphad3SIo3M)
-[![UIU CGPA Calculator & Planner | Tuition Fee | United](https://ytcards.demolab.com/?id=oefGz1XNcOM&title=UIU+CGPA+Calculator+%26+Planner+%7C+Tuition+Fee+%7C+United&lang=en&timestamp=1771111200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=478 "UIU CGPA Calculator & Planner | Tuition Fee | United")](https://www.youtube.com/watch?v=oefGz1XNcOM)
-[![Bangladesh Flag Animation BD | JavaScript](https://ytcards.demolab.com/?id=Fy42e4OE10s&title=Bangladesh+Flag+Animation+BD+%7C+JavaScript&lang=en&timestamp=1747504800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21 "Bangladesh Flag Animation BD | JavaScript")](https://www.youtube.com/watch?v=Fy42e4OE10s)
-[![Topic Wise Coding Practice in C, C++, Java & Python | Prog](https://ytcards.demolab.com/?id=kHqH4sUv2zE&title=Topic+Wise+Coding+Practice+in+C%2C+C%2B%2B%2C+Java+%26+Python+%7C+Prog&lang=en&timestamp=1746892800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=209 "Topic Wise Coding Practice in C, C++, Java & Python | Prog")](https://www.youtube.com/watch?v=kHqH4sUv2zE)
-[![Age Calculator with Amazing Facts | JavaScript](https://ytcards.demolab.com/?id=N3802c9PPmk&title=Age+Calculator+with+Amazing+Facts+%7C+JavaScript&lang=en&timestamp=1735063200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=221 "Age Calculator with Amazing Facts | JavaScript")](https://www.youtube.com/watch?v=N3802c9PPmk)
+<a href="https://www.youtube.com/watch?v=4iYUDeuZRJU">
+  <img src="https://ytcards.demolab.com/?id=4iYUDeuZRJU&title=UIU+Exam+Conflict+Tracker+%7C+Pre+Advising+Made+Easy&lang=en&timestamp=1778522400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=681" alt="UIU Exam Conflict Tracker" />
+</a>
+<a href="https://www.youtube.com/watch?v=kphad3SIo3M">
+  <img src="https://ytcards.demolab.com/?id=kphad3SIo3M&title=UIU+Course+Evaluation+Helper+%7C+Automation+EXTENSION&lang=en&timestamp=1773424800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=151" alt="UIU Course Evaluation Helper" />
+</a>
+<a href="https://www.youtube.com/watch?v=oefGz1XNcOM">
+  <img src="https://ytcards.demolab.com/?id=oefGz1XNcOM&title=UIU+CGPA+Calculator+%26+Planner+%7C+Tuition+Fee+%7C+United&lang=en&timestamp=1771111200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=478" alt="UIU CGPA Calculator & Planner" />
+</a>
+<a href="https://www.youtube.com/watch?v=Fy42e4OE10s">
+  <img src="https://ytcards.demolab.com/?id=Fy42e4OE10s&title=Bangladesh+Flag+Animation+BD+%7C+JavaScript&lang=en&timestamp=1747504800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21" alt="Bangladesh Flag Animation BD" />
+</a>
+<a href="https://www.youtube.com/watch?v=kHqH4sUv2zE">
+  <img src="https://ytcards.demolab.com/?id=kHqH4sUv2zE&title=Topic+Wise+Coding+Practice+in+C%2C+C%2B%2B%2C+Java+%26+Python+%7C+Prog&lang=en&timestamp=1746892800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=209" alt="Topic Wise Coding Practice" />
+</a>
+<a href="https://www.youtube.com/watch?v=N3802c9PPmk">
+  <img src="https://ytcards.demolab.com/?id=N3802c9PPmk&title=Age+Calculator+with+Amazing+Facts+%7C+JavaScript&lang=en&timestamp=1735063200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=221" alt="Age Calculator with Amazing Facts" />
+</a>
+
+</div>
+
 
 ## Social Links
 

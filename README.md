@@ -1,5 +1,8 @@
+<div align="center">
+
 ## Full Stack Developer | Tech Content Creator
 
+</div>
 <!-- <img align="right" height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWFnamcxamFhcGI3eWVkeXhmdDNkb3hvcnYxd2xpbmMxNXJnZ3dyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif"> -->
 
 <img src="assets/cover1.png">
@@ -12,20 +15,16 @@ I specialize in the modern JavaScript and TypeScript ecosystem with a deep focus
 
 </p>
 
-<p align="left">
+<div align="center">
   <a href="https://www.youtube.com/channel/UCaWmfSoM3C7Bsthzc0tCt0Q">
     <img src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCaWmfSoM3C7Bsthzc0tCt0Q?color=%23E05D44&label=YouTube%20Subscribers&logo=video&logoColor=white&style=flat-square&labelColor=CE4630" alt="YouTube Subscribers" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=kawsarcodes&style=flat-square&color=10b981&label=GitHub%20Profile%20Views" alt="GitHub Profile Views" />
-</p>
+</div>
 
 <img src="assets/fading-line-1.gif">
 
-## Current Activities
-* Optimizing applications using Next.js and TypeScript.
-* Exploring relational database design and PostgreSQL.
-* Developing GreenPulse, a smart city platform for urban environmental reporting.
-* Future Goals: Exploring system architecture and building open source projects.
+<div align="center">
 
 ## Tech Stack
 
@@ -35,7 +34,10 @@ I specialize in the modern JavaScript and TypeScript ecosystem with a deep focus
 | **Backend & Database** | ![NodeJS](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat-square&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748.svg?style=flat-square&logo=prisma&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=flat-square&logo=firebase&logoColor=black) ![BetterAuth](https://img.shields.io/badge/BetterAuth-black.svg?style=flat-square) |
 | **Languages** | ![C++](https://img.shields.io/badge/C++-00599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=flat-square&logo=c&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white) |
 | **Tools & Design** | ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat-square&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=flat-square&logo=figma&logoColor=white) |
+</div>
 
+
+<div align="center">
 
 ## GitHub Stats
 <p>
@@ -44,16 +46,25 @@ I specialize in the modern JavaScript and TypeScript ecosystem with a deep focus
     <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kawsarcodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&border_radius=0" alt="Most Used Languages" />
 </p>
 
+</div>
+
+<div align="center">
+
 ## Certificates
 
-<p align="center">
-<img src="assets/certificates/black-belt.png" width="90%" margin-top="10px" alt="Black Belt Certificate" />
+<a href="https://www.kawsar.dev/certificates/black-belt">
+  <img src="assets/certificates/black-belt.png" width="75%" style="margin-top: 10px;" alt="Black Belt Certificate" />
+</a>
 <br>
-<img src="assets/certificates/complete-web-dev.jpg" width="90%" margin-top="10px" alt="Complete Web Development Certificate" />
+<a href="https://www.kawsar.dev/certificates/complete-web-dev">
+  <img src="assets/certificates/complete-web-dev.jpg" width="75%" style="margin-top: 10px;" alt="Complete Web Development Certificate" />
+</a>
 <br>
-<img src="assets/certificates/mern-stack.jpg" width="90%" margin-top="10px" alt="MERN Stack Certificate" />
-</p>
+<a href="https://www.kawsar.dev/certificates/mern-stack">
+  <img src="assets/certificates/mern-stack.jpg" width="75%" style="margin-top: 10px;" alt="MERN Stack Certificate" />
+</a>
 
+</div>
 
 <div align="center">
 
@@ -80,6 +91,7 @@ I specialize in the modern JavaScript and TypeScript ecosystem with a deep focus
 
 </div>
 
+<div align= "center">
 
 ## Social Links
 
@@ -87,7 +99,13 @@ I specialize in the modern JavaScript and TypeScript ecosystem with a deep focus
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Md%20Kawsar%20Ahmed-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdkawsarahmed)
 [![Twitter](https://img.shields.io/badge/Twitter-Kawsar%20Ahmed-lightblue?style=flat-square&logo=x&logoColor=white)](https://twitter.com/kawsarcodes)
 
+</div>
+
+<div align= "center">
+
 ## Contact
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kawsar.dev-008080?style=flat-square&logo=google-chrome&logoColor=white)](https://kawsar.dev)
 [![Email](https://img.shields.io/badge/Email-contact@kawsar.dev-FF8C00?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@kawsar.dev)
+
+</div>
